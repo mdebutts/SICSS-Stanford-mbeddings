@@ -58,8 +58,8 @@ We begin with [Semantle](https://semantle.com/), an engaging word-guessing game 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/mdebutts/SICSS-Stanford-mbeddings.git
-cd SICSS-Stanford-mbeddings
+git clone https://github.com/mdebutts/SICSS-Stanford-embeddings.git
+cd SICSS-Stanford-embeddings
 ```
 
 2. Create a virtual environment (recommended):
